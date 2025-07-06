@@ -1,15 +1,16 @@
 
-<h1 align="center">
+<h1 align="center"
+
   <div>
-  <img title="TypeScript" alt="TypeScript" height=150
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
-  </div>
-  <div>  
-    <img title="EgyptianAbroad" src="https://user-images.githubusercontent.com/54721194/131196398-02262940-c858-4a91-b4c8-81f389ca8b9f.png" alt="EgyptianAbroad Logo" width="300"/>
+  <img title="NextJs" alt="NextJs" width=350
+      src="https://www.svgrepo.com/show/354113/nextjs-icon.svg">
   </div>
   
-  <img title="MERN" src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png" alt="MERN" width="500" />
- 
+  <div style="margin-left: 100px;">
+  <img title="MERN" src="https://miro.medium.com/v2/resize:fit:678/0*kxPYwfJmkXZ3iCWy.png" alt="MERN" width="500" />
+   </div>
+
+  
   <br>
   TypeScript Version of MERN-Stack Social Network Built Using Next.JS, Styled-Components, MondoDB, Node.JS & Express.JS
 </h1>
