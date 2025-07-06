@@ -7,7 +7,7 @@
   </div>
   
   <div style="margin-left: 100px;">
-  <img title="MERN" src="https://miro.medium.com/v2/resize:fit:678/0*kxPYwfJmkXZ3iCWy.png" alt="MERN" width="500" />
+  <img title="MERN" src="https://camo.githubusercontent.com/bec1923f57161dea0fdb4663e39f7832fc7e1ec53e206d1c9a650a5040e904dd/68747470733a2f2f692e6962622e636f2f323331795336362f6d65726e2d63726f702e706e67" alt="MERN" width="500" />
    </div>
 
   
