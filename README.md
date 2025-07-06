@@ -2,7 +2,7 @@
 <h1 align="center"
 
   <div>
-  <img title="NextJs" alt="NextJs" width=350
+  <img title="NextJs" alt="NextJs" width=250
       src="https://www.svgrepo.com/show/354113/nextjs-icon.svg">
   </div>
   
